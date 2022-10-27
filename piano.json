@@ -1,0 +1,23 @@
+{
+    "isShowAds": true,
+    "isShowNative": true,
+    "isShowBanner": true,
+    "isShowInt": true,
+    "isShowRewards": true,
+    "adsBanner": "Admob",
+    "adsInter": "Admob",
+    "adsRewards": "Admob",
+    "isAutoRedirect": false,
+    "intervalInt": 1,
+    "admobAppId": "ca-app-pub-3940256099942544~3830044198",
+    "admobBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterId": "ca-app-pub-3940256099942544/1033173712",
+    "admobRewardId": "ca-app-pub-3940256099942544/5224354917",
+    "isTestAds": false,
+    "unityAdsId": "4943265",
+    "urlRedirect": "https://play.google.com/store/apps/details?id=com.higgsdominojackpotjinjin.Grewal17baoguide",
+    "testDevices": [
+        "55D957382B50D7283282407964778657",
+        "CC3980C02792A2BC4D32CA4C91FCA934"
+    ]
+}
